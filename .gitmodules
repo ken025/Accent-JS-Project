@@ -1,0 +1,6 @@
+[submodule "Accent-Backend"]
+	path = Accent-Backend
+	url = https://github.com/ken025/Accent-Backend.git
+[submodule "Accent-Frontend"]
+	path = Accent-Frontend
+	url = https://github.com/ken025/Accent-Frontend.git
