@@ -20,9 +20,9 @@ A web application, inspired by pinterest, designed to give users the ability bro
 
 ## Repos
 
-	 [Backend](https://github.com/ken025/Accent-Backend.git)
+  [Backend](https://github.com/ken025/Accent-Backend.git)
 
-     [Frontend](https://github.com/ken025/Accent-Frontend.git)
+  [Frontend](https://github.com/ken025/Accent-Frontend.git)
 
 ## Contributing
 
