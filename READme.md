@@ -18,7 +18,7 @@ A web application, inspired by pinterest, designed to give users the ability bro
   - Once that is done successfully:
     - cd into the backend and enter `open index.html`
   
-  -User login info:
+  - User login info:
     - email: "test@test.com" & password: "test" (to change this information, alter the seed file located in the db folder)
 
 ## Repos
