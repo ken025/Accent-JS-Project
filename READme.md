@@ -15,8 +15,11 @@ A web application, inspired by pinterest, designed to give users the ability bro
     - cd into the frontend and run `bundle install` to load the gems and dependencies
     - Once that is done, run `rake db:migrate` to have access to the database
     - To access the web application run `rails s` and click the link provided to run your local host
-- Once that is done successfully:
-  - cd into the backend and enter `open index.html`
+  - Once that is done successfully:
+    - cd into the backend and enter `open index.html`
+  
+  -User login info:
+    - email: "test@test.com" & password: "test" (to change this information, alter the seed file located in the db folder)
 
 ## Repos
 
@@ -30,4 +33,8 @@ Bug reports and pull requests are welcomed.
 
 ## License
 This code is free to use under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Future Plans for this Project
+- Implement incrementing like feature
+- Make sign up avaliable with JWT 
 
