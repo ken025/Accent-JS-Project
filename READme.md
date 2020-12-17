@@ -20,7 +20,7 @@ A web application, inspired by pinterest, designed to give users the ability bro
   
   - User login info:
     - email: "test@test.com" & password: "test" 
-      -(to change this information, alter the seed file located in the db folder)
+      - (to change this information, alter the seed file located in the db folder)
 
 ## Repos
 
