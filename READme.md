@@ -16,7 +16,7 @@ A web application, inspired by pinterest, designed to give users the ability bro
     - When loaded, run `rake db:create` to create the database
     - Once that is done, run `rake db:migrate` to have access to the database
     - To have access to user and/or default posts, run `rake db:seed`
-    - To access the web application run `rails s` and click the link provided to run your local host
+    - To access the web application run `rails s` 
   - Once that is done successfully:
     - cd into the backend and enter `open index.html`
   
