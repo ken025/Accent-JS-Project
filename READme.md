@@ -1,7 +1,9 @@
 # Welcome to: Áccent
 A web application, inspired by pinterest, designed to give users the ability browse through the categories of fashion, food and interior decor. Users will be able to add their own pins and favorite the pins they like. 
 
-[Try it out!](http://accent.surge.sh/)
+[See the layout!](http://accent.surge.sh/)
+![](https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/152384700_1802005103302772_7230147619599388606_o.jpg?_nc_cat=111&ccb=3&_nc_sid=730e14&_nc_ohc=tGqG_sLx51oAX-i95o9&_nc_ht=scontent.ftpa1-2.fna&oh=1722f3c381b968a35013ffb293d012fb&oe=6056BC05)
+![](https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/151206218_1802005026636113_3315755095960402365_o.jpg?_nc_cat=108&ccb=3&_nc_sid=730e14&_nc_ohc=PLLApczl5XEAX9IwUz4&_nc_ht=scontent.ftpa1-1.fna&oh=c0d057b9dfc5bc31f49ff49b839b4e7f&oe=60544B89)
 
 - Users will be able to post pins by choosing a category and providing:
   - A link to an image
